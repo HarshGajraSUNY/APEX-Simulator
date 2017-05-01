@@ -1,4 +1,4 @@
-APEX Pipeleine Simulator 
+APEX Pipeline Simulator 
 
 Description:
 Implemented a cycle-by-cycle simulator for an in-order APEX pipeline with different function units with interactive GUI 
