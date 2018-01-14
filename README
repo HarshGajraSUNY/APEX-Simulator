@@ -1,7 +1,7 @@
-APEX Pipeline Simulator 
+APEX Pipeline Simulator (JAVA)
 
 Description:
-Implemented a cycle-by-cycle simulator for an in-order APEX pipeline with different function units with interactive GUI 
+Implemented a cycle-by-cycle simulator for an in-order APEX pipeline with different function units with interactive GUI .
 
 Note:
 Please do not use this project and code for doing University Assignments.
